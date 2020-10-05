@@ -1,0 +1,12 @@
+font size text: between 15 and 25 px
+font size head line or titles : about 60 px to 90 px
+line spacing on ffont seize : between 120% and  150% 
+caraceter on line : 45 to 90 caracters
+use google web fonts
+---------------------COLORS--------------------------------------------------------
+
+
+
+
+
+
